@@ -1,0 +1,5 @@
+﻿User-agent: *
+Allow: /
+
+
+Sitemap: https://fancyjacuzzirepair.pro/sitemap_index.xml
